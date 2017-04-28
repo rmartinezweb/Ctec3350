@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
+footer {
+		display: flex;
+		justify-content: center;
+		background-color: #909090;
+		color: white;
+		padding: 50px 0 50px 0; 
+	}

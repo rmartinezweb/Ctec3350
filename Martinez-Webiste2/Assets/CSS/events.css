@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+.color {background-color: red}
+	table th {font-size: 40px}
+	table td {font-size: 40px}
+
+.table table {display: flex;
+justify-content: center;}
+
+.tablebackground {background-image: url(../Images/pexels-photo-139306.jpeg); background-size: 100%; background: linear-gradient(0 0 0 0.5)}
+
+.acts {display: flex; justify-content: center; background-color: #EBCBA8; padding: 20px}
+
+.actimage1 {border: 3px solid white; margin-left: 30px}
+.actimage2 {border: 3px solid white; margin-right: 30px}
+
+th {background-color: white}
+td {background-color: white}
+
+.upcoming {display: flex; justify-content: center; position: relative; top: 50px}
+
+h4 {position: relative; top: 50px; left: 5px}

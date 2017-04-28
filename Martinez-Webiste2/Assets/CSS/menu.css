@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+ul li {list-style-type: none; display: flex; justify-content: center}
+
+h3 {display: flex; justify-content: center}
+
+.javajamproducts img {border: 3px solid white; border-radius: 50%; display: inline; }
+
+.javajamproducts img {margin: 30px 80px 0 80px; }
+
+.java {
+	background-color: #FFECB6;
+}
+
+.javajambackground {
+	background-image: url(../Images/pexels-photo-139306.jpeg); background-size: 100%; padding: 20px 0 20px 0;
+}
+
+h3 {color: #FFFFFF}
+li {color: #FFFFFF}
+

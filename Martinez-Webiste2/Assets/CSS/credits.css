@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+.image {display: flex;
+justify-content: flex-start}
+.text {display: flex;
+justify-content: flex-end}
+
+h3 {display: flex;
+justify-content: center}
+
+.home {background-color: #9A9999; color: white}
+
+.events {background-color: #9A9999; color: white}
+
+.socialmedia {background-color: #9A9999; color: white}

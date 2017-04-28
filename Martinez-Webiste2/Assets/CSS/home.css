@@ -1,0 +1,105 @@
+@charset "utf-8";
+/* CSS Document */
+
+.welcome {
+		background-image: url(../Images/coffee.jpg); background-repeat: no-repeat; background-size: 100%; padding-bottom: 420px;  
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -ms-transform: scaleX(-1);
+    transform: scaleX(-1);
+    -ms-filter: "FlipH";
+    filter: FlipH;
+		
+	}
+	
+	.javajam {
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -ms-transform: scaleX(-1);
+    transform: scaleX(-1);
+    -ms-filter: "FlipH";
+    filter: FlipH;
+		
+	display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: flex-end;
+    justify-content: flex-end;
+    width: 400px;
+    height: 250px;
+	margin-right: 1000px;
+		
+}
+
+	
+	.javajam {font-size: 100px; text-align: center; padding: 75px 100px 0 0; color: white;}
+			
+	
+	.jobs {
+	
+	display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+	width: 300px;
+	height: 200px;
+	
+	}
+	
+
+	
+
+/* Events Div */	
+	.eventsignup {
+		background-color: #FF896E;
+	}
+	
+	.livemusicandevents {
+		display: flex;
+		justify-content: flex-start;
+		width: 100%;
+		
+	}
+	
+	.eventinfo {
+		padding: 20px 0 0 400px ;
+	}
+	
+/* Job Oppurtunities Div */
+	
+	.joboppurtunities {
+	background-color: #F7E2A4;
+	}
+	
+	
+	
+	.jobs {
+		display: flex;
+		justify-content: flex-start;
+		width: 100%;
+		
+	}
+	
+	.jobinfo {
+		padding: 20px 0 0 400px ;
+	}
+	
+/* Booking Tab */
+	
+	.bookingform {
+	
+	display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: flex-end;
+    justify-content: flex-end;
+   
+    background-color: dimgrey;
+	
+	}
+	
+	.bookingform img {padding: 20px 40px 0 0;}
+	
+	.bookinginfo {
+		padding: 20px 700px 0 0;
+	}
